@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Job_Posting__c",
+                "referenceId": "Job_Posting__cRef1"
+            },
+            "Name": "JOBPOST-0001",
+            "Position__r": {
+                "attributes": {
+                    "type": "Position__c",
+                    "url": "/services/data/v57.0/sobjects/Position__c/a037Q000006GeKMQA0"
+                },
+                "Name": "Super Sales Rep",
+                "Approval_Status__c": "Approved",
+                "Department__c": "Sales",
+                "Education__c": null,
+                "Hiring_Manager__c": null,
+                "Job_Description__c": "Sales rep to join the AW Computing team serving the eastern region of AMER",
+                "Legacy_Position_Number__c": null,
+                "Location__c": "US",
+                "Pay_Grade__c": null,
+                "Salary_Range__c": null,
+                "Skills_Required__c": null,
+                "Status__c": "New"
+            },
+            "Job_Posting_Site__r": {
+                "attributes": {
+                    "type": "Job_Posting_Site__c",
+                    "url": "/services/data/v57.0/sobjects/Job_Posting_Site__c/a077Q000004zmKHQAY"
+                },
+                "Name": "Lots-O-Jobs",
+                "Job_Posting_Site_URL__c": "www.Lotsojobs.com",
+                "Status__c": "Active",
+                "Technical_Site__c": false,
+                "Description__c": null
+            }
+        }
+    ]
+}
