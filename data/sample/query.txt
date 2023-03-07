@@ -1,0 +1,10 @@
+SELECT Id, Name,
+Position__c,
+Position__r.Name, Position__r.Approval_Status__c, Position__r.Department__c,
+Position__r.Education__c, Position__r.Hiring_Manager__c, Position__r.Job_Description__c,
+Position__r.Legacy_Position_Number__c, Position__r.Location__c, Position__r.Pay_Grade__c,
+Position__r.Salary_Range__c, Position__r.Skills_Required__c, Position__r.Status__c,
+Job_Posting_Site__c,
+Job_Posting_Site__r.Name, Job_Posting_Site__r.Job_Posting_Site_URL__c, Job_Posting_Site__r.Status__c,
+Job_Posting_Site__r.Technical_Site__c, Job_Posting_Site__r.Description__c
+FROM Job_Posting__c
