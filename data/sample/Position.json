@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Position__c",
+        "referenceId": "SuperSalesRepRef1"
+      },
+      "Status__c": "New",
+      "Location__c": "US",
+      "Pay_Grade__c": null,
+      "Education__c": null,
+      "Salary_Range__c": null,
+      "Department__c": "Sales",
+      "Hiring_Manager__c": null,
+      "Name": "Super Sales Rep",
+      "Skills_Required__c": null,
+      "Approval_Status__c": "Approved",
+      "Legacy_Position_Number__c": null,
+      "Job_Description__c": "Sales rep to join the AW Computing team serving the eastern region of AMER"
+    }
+  ]
+}

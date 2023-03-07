@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Job_Posting__c",
+        "referenceId": "JobPostingRef0000001"
+      },
+      "Position__c": "@SuperSalesRepRef1",
+      "Job_Posting_Site__c": "@LotsOJobsRef1"
+    }
+  ]
+}

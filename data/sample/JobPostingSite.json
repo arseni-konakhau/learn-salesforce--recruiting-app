@@ -1,0 +1,15 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Job_Posting_Site__c",
+        "referenceId": "LotsOJobsRef1"
+      },
+      "Name": "Lots-O-Jobs",
+      "Job_Posting_Site_URL__c": "www.Lotsojobs.com",
+      "Status__c": "Active",
+      "Technical_Site__c": false,
+      "Description__c": null
+    }
+  ]
+}
