@@ -1,7 +1,17 @@
 
+## Deploy Data Management
+export data from organisation:
 ```
 sfdx force:data:tree:export -q ./data/sample/query.txt -x export-data -d ./data/result -p
 ```
+
+import data to organisation
+```
+sfdx force:data:tree:import -p ./data/result/plan.json
+```
+
+************
+
 
 # Salesforce DX Project: Next Steps
 
