@@ -1,10 +1,5 @@
 [
     {
-        "sobject": "Job_Posting__c",
-        "resolveRefs": true,
-        "files": ["JobPosting.json"]
-    },
-    {
         "sobject": "Job_Posting_Site__c",
         "saveRefs": true,
         "files": ["JobPostingSite.json"]
@@ -13,5 +8,11 @@
         "sobject": "Position__c",
         "saveRefs": true,
         "files": ["Position.json"]
+    },
+    {
+        "sobject": "Job_Posting__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["JobPosting.json"]
     }
 ]
