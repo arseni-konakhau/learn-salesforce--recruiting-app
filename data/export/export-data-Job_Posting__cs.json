@@ -11,6 +11,7 @@
                     "type": "Position__c",
                     "url": "/services/data/v57.0/sobjects/Position__c/a037Q000006GeKMQA0"
                 },
+                "Related_Position__c": null,
                 "Name": "Super Sales Rep",
                 "Approval_Status__c": "Approved",
                 "Department__c": "Sales",
