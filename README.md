@@ -2,12 +2,12 @@
 ## Deploy Data Management
 export data from organisation:
 ```
-sfdx force:data:tree:export -q ./data/sample/query.txt -x export-data -d ./data/result -p
+sfdx force:data:tree:export -q ./data/query.txt -x export-data -d ./data/export -p
 ```
 
 import data to organisation
 ```
-sfdx force:data:tree:import -p ./data/result/plan.json
+sfdx force:data:tree:import -p ./data/import/plan.json
 ```
 
 ************
