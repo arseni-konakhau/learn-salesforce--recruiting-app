@@ -54,6 +54,21 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>Operating_Systems__c</picklist>
+        <values>
+            <fullName>Mac</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unix</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Windows</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Pay_Grade__c</picklist>
         <values>
             <fullName>ACT-100</fullName>
@@ -133,6 +148,37 @@
         </values>
         <values>
             <fullName>S-400</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Programming_Languages__c</picklist>
+        <values>
+            <fullName>%2ENet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>COBOL</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>FORTRAN</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Java</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>PHP</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Perl</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Python</fullName>
             <default>false</default>
         </values>
     </picklistValues>
