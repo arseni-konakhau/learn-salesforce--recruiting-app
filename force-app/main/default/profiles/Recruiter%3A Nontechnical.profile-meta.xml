@@ -207,6 +207,11 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Review__c.Candidate_Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Review__c.Core_Competencies_Comments__c</field>
         <readable>true</readable>
@@ -239,6 +244,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Review__c.Leadership_Skills__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Review__c.Position_Title__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
