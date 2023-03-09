@@ -264,11 +264,18 @@
         <layout>Job_Posting_Site__c-Job Posting Site Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Job_Posting__c-Job Posting Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Position__c-Position Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Position__c-Position Layout</layout>
         <recordType>Position__c.Nontechnical_Position</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Position__c-Technical Position Layout</layout>
+        <recordType>Position__c.Technical_Position</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Review__c-Review Layout</layout>

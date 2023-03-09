@@ -264,6 +264,9 @@
         <layout>Job_Posting_Site__c-Job Posting Site Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Job_Posting__c-Job Posting Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Position__c-Position Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
