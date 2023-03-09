@@ -261,6 +261,16 @@
         <field>Review__c.Recommend_for_Hire__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Zip_Code__c.City__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Zip_Code__c.State__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Candidate__c-Candidate Layout</layout>
     </layoutAssignments>
@@ -289,6 +299,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Review__c-Review Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Zip_Code__c-Zip Code Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>true</default>
@@ -326,6 +339,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Review__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Zip_Code__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
