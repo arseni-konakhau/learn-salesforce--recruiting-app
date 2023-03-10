@@ -5,6 +5,11 @@
         <visible>true</visible>
     </applicationVisibilities>
     <description>Temporary permission is set for those Hiring Managers that need to interview candidates for positions in their department</description>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Position__c.Salary_Range__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Hiring Manager</label>
     <license>Salesforce</license>
