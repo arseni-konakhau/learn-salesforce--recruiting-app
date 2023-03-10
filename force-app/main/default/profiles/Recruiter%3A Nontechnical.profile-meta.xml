@@ -103,8 +103,23 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Job_Application__c.Average_Review_Score__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Job_Application__c.Legacy_Job_Application_Number__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Job_Application__c.Number_of_Reviews__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Job_Application__c.Review_Indicator__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -115,6 +130,11 @@
         <editable>false</editable>
         <field>Job_Application__c.Status__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Job_Application__c.Total_Review_Score__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -244,6 +264,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Review__c.Leadership_Skills__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Review__c.Overall_Review_Score__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
